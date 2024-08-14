@@ -1,0 +1,1 @@
+	Developed a multi-threaded Java application that simulated a restaurant with cooks, machines and customers. Implementing thread-safe data structures and synchronized methods, I reduced processing time by 50%.
